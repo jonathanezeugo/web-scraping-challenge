@@ -1,10 +1,10 @@
 # web-scraping-challenge
 Missions_to_Mars
 
-<img src="/Images/mission_to_mars.PNG">
+<img src="/Images/mission_to_mars.png">
 
 Here are the Mars facts obtained from the websites:
-![Mars_Facts]("/Images/Mars_Facts.png")
+![Mars Facts]("/Images/Mars_Facts.png")
 <img src="/Images/Mars_Facts.PNG">
 
 
