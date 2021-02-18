@@ -23,14 +23,14 @@ Here are the 4 respective images scrapped from the site:
 <img src="../Images/Cerberus_Hemisphere_image.jpg"> -->
 
 2. Schiaparellis Hemisphere Enhanced Image:
-<img src="/Images/Schiaparellis_Hemisphere_image.JPG">
-[Schiaparellis Hemisphere Enhanced Image]("Images/Schiaparellis_Hemisphere_image.JPG")
+<img src="/Images/Schiaparellis_Hemisphere_image.jpg">
+<!-- [Schiaparellis Hemisphere Enhanced Image]("Images/Schiaparellis_Hemisphere_image.JPG") -->
 
 3. Syrtis Major Hemisphere Enhanced Image:
-<img src="/Images/Syrtis_Major_Hemisphere_image.JPG">
-[Syrtis Major Hemisphere Enhanced Image]("Images/Syrtis_Major_Hemisphere_image.JPG")
+<img src="/Images/Syrtis_Major_Hemisphere_image.jpg">
+<!-- [Syrtis Major Hemisphere Enhanced Image]("Images/Syrtis_Major_Hemisphere_image.JPG") -->
 
 4. Valles Marineris Hemisphere Enhanced Image:
-<img src="/Images/Valles_Marineris_Hemisphere_image.JPG">
-[Valles Marineris Hemisphere Enhanced Image]("Images/Valles_Marineris_Hemisphere_image.JPG")
+<img src="/Images/Valles_Marineris_Hemisphere_image.jpg">
+<!-- [Valles Marineris Hemisphere Enhanced Image]("Images/Valles_Marineris_Hemisphere_image.JPG") -->
 
