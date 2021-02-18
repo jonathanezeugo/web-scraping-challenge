@@ -6,9 +6,9 @@ Missions_to_Mars
 
 Here are the Mars facts obtained from the websites:
 
-![Mars Facts]("/Images/Mars_Facts.png")
+[Mars Facts]("/Images/Mars_Facts.png")
 
-![Mars Facts]("/Images/Mars_Facts.PNG")
+[Mars Facts]("/Images/Mars_Facts.PNG")
 
 <img src="/Images/Mars_Facts.PNG">
 
