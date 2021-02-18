@@ -6,12 +6,8 @@ Missions_to_Mars
 
 Here are the Mars facts obtained from the websites:
 
-[Mars Facts]("/Images/Mars_Facts.png")
-
-[Mars Facts]("/Images/Mars_Facts.PNG")
 
 <img src="/Images/Mars_Facts.PNG">
-
 
 
 This homework was very instructive as it afforded the opportunity to put into practice the concepts taught in class about webscrapping and the many uses it affords any individual in the web development field of data analytics. The focus is on Mars. The capacity of science to investigate the unknown has been at the core of human development especially over the last century. Mars is a planet with lots of intrigues and reaching out for this "red" plannet is a principal endeavor of mankind, especially the science community.
