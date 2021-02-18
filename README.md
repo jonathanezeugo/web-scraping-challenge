@@ -3,6 +3,10 @@ Missions_to_Mars
 
 <img src="/Images/mission_to_mars.png">
 
+Here are the Mars facts obtained from the websites:
+![Mars_Facts]("/Images/Mars_Facts.png")
+<img src="/Images/Mars_Facts.png">
+
 
 This homework was very instructive as it afforded the opportunity to put into practice the concepts taught in class about webscrapping and the many uses it affords any individual in the web development field of data analytics. The focus is on Mars. The capacity of science to investigate the unknown has been at the core of human development especially over the last century. Mars is a planet with lots of intrigues and reaching out for this "red" plannet is a principal endeavor of mankind, especially the science community.
 
@@ -17,20 +21,16 @@ Here are the 4 respective images scrapped from the site:
 
 1. Cerberus Hemisphere Enhanced Image:
 <img src="/Images/Cerberus_Hemisphere_image.jpg">
-<!-- ![Cerberus Hemisphere Enhanced Image]("Images/Cerberus_Hemisphere_image.JPG")
-<img src="Images/Cerberus_Hemisphere_image.jpg">
-<img src="./Images/Cerberus_Hemisphere_image.jpg">
-<img src="../Images/Cerberus_Hemisphere_image.jpg"> -->
 
 2. Schiaparellis Hemisphere Enhanced Image:
 <img src="/Images/Schiaparellis_Hemisphere_image.jpg">
-<!-- [Schiaparellis Hemisphere Enhanced Image]("Images/Schiaparellis_Hemisphere_image.JPG") -->
 
 3. Syrtis Major Hemisphere Enhanced Image:
 <img src="/Images/Syrtis_Major_Hemisphere_image.jpg">
-<!-- [Syrtis Major Hemisphere Enhanced Image]("Images/Syrtis_Major_Hemisphere_image.JPG") -->
 
 4. Valles Marineris Hemisphere Enhanced Image:
 <img src="/Images/Valles_Marineris_Hemisphere_image.jpg">
-<!-- [Valles Marineris Hemisphere Enhanced Image]("Images/Valles_Marineris_Hemisphere_image.JPG") -->
+
+The summarized facts about Mars from the scrapped website is seen in the table below:
+
 
