@@ -31,7 +31,3 @@ Here are the 4 respective images scrapped from the site:
 
 4. Valles Marineris Hemisphere Enhanced Image:
 <img src="/Images/Valles_Marineris_Hemisphere_image.jpg">
-
-
-
-
