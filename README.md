@@ -4,7 +4,7 @@ Missions_to_Mars
 <img src="/Images/mission_to_mars.png">
 
 
-Here are the Mars facts obtained from the websites:
+The summarized facts about Mars from the scrapped website is seen in the table below:
 
 
 <img src="/Images/Mars_Facts.PNG">
@@ -33,6 +33,6 @@ Here are the 4 respective images scrapped from the site:
 4. Valles Marineris Hemisphere Enhanced Image:
 <img src="/Images/Valles_Marineris_Hemisphere_image.jpg">
 
-The summarized facts about Mars from the scrapped website is seen in the table below:
+
 
 
