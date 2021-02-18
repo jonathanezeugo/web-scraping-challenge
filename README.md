@@ -17,10 +17,10 @@ Here are the 4 respective images scrapped from the site:
 
 1. Cerberus Hemisphere Enhanced Image:
 <img src="/Images/Cerberus_Hemisphere_image.jpg">
-![Cerberus Hemisphere Enhanced Image]("Images/Cerberus_Hemisphere_image.JPG")
+<!-- ![Cerberus Hemisphere Enhanced Image]("Images/Cerberus_Hemisphere_image.JPG")
 <img src="Images/Cerberus_Hemisphere_image.jpg">
 <img src="./Images/Cerberus_Hemisphere_image.jpg">
-<img src="../Images/Cerberus_Hemisphere_image.jpg">
+<img src="../Images/Cerberus_Hemisphere_image.jpg"> -->
 
 2. Schiaparellis Hemisphere Enhanced Image:
 <img src="/Images/Schiaparellis_Hemisphere_image.JPG">
