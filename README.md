@@ -3,7 +3,6 @@ Missions_to_Mars
 
 <img src="/Images/mission_to_mars.png">
 
-
 The summarized facts about Mars from the scrapped website is seen in the table below:
 
 
